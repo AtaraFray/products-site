@@ -1,0 +1,13 @@
+{
+    "Category":[
+   { "categoryCode":"100",
+    "categoryName":"suitcases"
+   },
+   { "categoryCode":"200",
+    "categoryName":"bags"
+   },
+   { "categoryCode":"300",
+    "categoryName":"purses"
+   }
+ ]
+ }

@@ -1,0 +1,72 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 230px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .cart {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .cart:hover {
+    opacity: 0.7;
+  }
+
+  .more{
+    border: none;
+    outline: 0;
+    color: rgb(21, 20, 20);
+    background-color: white;
+    text-align: right;
+    cursor: pointer;
+    width: 90%;
+    font-size: 18px;
+    height: 100%;
+    align-self: flex-end;
+    align-items: flex-end;
+  }
+  .more:hover {
+    opacity: 0.7;
+    border: none;
+  }
+
+
+  h5{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+  }
+  .arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  /* ===================================================== */
+  #oneCard{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 380px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    height: 620p;
+  }

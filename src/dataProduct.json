@@ -1,0 +1,564 @@
+{
+    "Products": [
+        {
+            "productCode": "1",
+            "productName": "black leather working bag",
+            "price": "150",
+            "src":"/products-site/1.jpg",
+            "category":"100",
+            "color":"black"
+        },
+        {
+            "productCode": "2",
+            "productName": "black leather handbag",
+            "price": "150",
+            "src":"/products-site/2.jpg",
+            "category":"200",
+            "color":"black"
+        },
+        {
+            "productCode": "3",
+            "productName": "fancy event black handbag",
+            "price": "150",
+            "src":"/products-site/3.jpg",
+            "category":"200",
+            "color":"black"
+        },
+        {
+            "productCode": "4",
+            "productName": "black leather michael kors bag",
+            "price": "150",
+            "src":"/products-site/4.jpg",
+            "category":"100",
+            "color":"black"
+        },
+        {
+            "productCode": "5",
+            "productName": "black leather working bag with silver buckle",
+            "price": "100",
+            "src":"/products-site/5.jpg",
+            "category":"100",
+            "color":"black"
+        },
+        {
+            "productCode": "6",
+            "productName": "black coach bag",
+            "price": "150",
+            "src":"/products-site/6.jpg",
+            "category":"100",
+            "color":"black"
+        },
+        {
+            "productCode": "7",
+            "productName": "event black handbag with gold diamond",
+            "price": "1",
+            "src":"/products-site/7.jpg",
+            "category":"200",
+            "color":"black"
+        },
+        {
+            "productCode": "8",
+            "productName": "black leather wallet",
+            "price": "150",
+            "src":"/products-site/8.jpg",
+            "category":"200",
+            "color":"black"
+        },
+        {
+            "productCode": "9",
+            "productName": "black leather juicy wallet",
+            "price": "150",
+            "src":"/products-site/9.jpg",
+            "category":"200",
+            "color":"black"
+        },
+        {
+            "productCode": "10",
+            "productName": "black leather juicy yong wallet",
+            "price": "150",
+            "src":"/products-site/10.jpg",
+            "category":"200",
+            "color":"black"
+        },
+        {
+            "productCode": "11",
+            "productName": "nice black leather bag with blue buckle",
+            "price": "150",
+            "src":"/products-site/11.jpg",
+            "category":"100",
+            "color":"black"
+        },
+        {
+            "productCode": "13",
+            "productName": "black tough suitcase",
+            "price": "150",
+            "src":"/products-site/13.jpg",
+            "category":"300",
+            "color":"black"
+        },
+        {
+            "productCode": "14",
+            "productName": "black tough smooth suitcase",
+            "price": "150",
+            "src":"/products-site/14.jpg",
+            "category":"300",
+            "color":"black"
+        },
+        {
+            "productCode": "15",
+            "productName": "cute and small light blue bag",
+            "price": "150",
+            "src":"/products-site/15.jpg",
+            "category":"100",
+            "color":"blue"
+        },
+        {
+            "productCode": "16",
+            "productName": "nice light blue bag",
+            "price": "150",
+            "src":"/products-site/16.jpg",
+            "category":"100",
+            "color":"blue"
+        },
+        {
+            "productCode": "17",
+            "productName": "fancy blue bag with gold buckle",
+            "price": "150",
+            "src":"/products-site/17.jpg",
+            "category":"100",
+            "color":"blue"
+        },
+        {
+            "productCode": "18",
+            "productName": "blue shining handbag",
+            "price": "150",
+            "src":"/products-site/18.jpg",
+            "category":"200",
+            "color":"blue"
+        },
+        {
+            "productCode": "19",
+            "productName": "fancy event light blue handbag",
+            "price": "150",
+            "src":"/products-site/19.jpg",
+            "category":"200",
+            "color":"blue"
+        },
+        {
+            "productCode": "20",
+            "productName": "coach blue working bag",
+            "price": "150",
+            "src":"/products-site/20.jpg",
+            "category":"100",
+            "color":"blue"
+        },
+        {
+            "productCode": "21",
+            "productName": "tough smooth wide light blue suitcase",
+            "price": "150",
+            "src":"/products-site/21.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "22",
+            "productName": "tough shining-blue suitcase",
+            "price": "150",
+            "src":"/products-site/22.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "23",
+            "productName": "blue tough smooth suitcase",
+            "price": "150",
+            "src":"/products-site/23.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "24",
+            "productName": "light blue tough suitcase",
+            "price": "150",
+            "src":"/products-site/24.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "25",
+            "productName": "blue tough suitcase",
+            "price": "150",
+            "src":"/products-site/25.jpg",
+          "color":"blue"
+        },
+        {
+            "productCode": "26",
+            "productName": "turquoise tough suitcase",
+            "price": "10  ",
+            "src":"/products-site/26.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "27",
+            "productName": "strong blue suitcase",
+            "price": "150",
+            "src":"/products-site/27.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "28",
+            "productName": "tough shining light-blue suitcase",
+            "price": "150",
+            "src":"/products-site/28.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "29",
+            "productName": "tough smooth blue suitcase",
+            "price": "150",
+            "src":"/products-site/29.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "30",
+            "productName": "brown teacher bag",
+            "price": "150",
+            "src":"30.jpg",
+            "category":"100",
+            "color":"brown"
+        },
+        {
+            "productCode": "31",
+            "productName": "tough light blue suitcase",
+            "price": "150",
+            "src":"/products-site/31.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "32",
+            "productName": "nice tough light blue suitcase",
+            "price": "150",
+            "src":"/products-site/32.jpg",
+            "category":"300",
+            "color":"blue"
+        },
+        {
+            "productCode": "33",
+            "productName": "brown shopping bag",
+            "price": "150",
+            "src":"/products-site/33.jpg",
+            "category":"100",
+            "color":"brown"
+        },
+        {
+            "productCode": "34",
+            "productName": "fancy coach brown bag",
+            "price": "150",
+            "src":"/products-site/34.jpg",
+            "category":"100",
+            "color":"brown"
+        },
+        {
+            "productCode": "35",
+            "productName": "coach brown yong bag",
+            "price": "150",
+            "src":"/products-site/35.jpg",
+            "category":"100",
+            "color":"brown"
+        },
+        {
+            "productCode": "36",
+            "productName": "leather brown working bag",
+            "price": "150",
+            "src":"/products-site/36.jpg",
+            "category":"100",
+            "color":"brown"
+        },
+        {
+            "productCode": "37",
+            "productName": "nice coach brown bag",
+            "price": "150",
+            "src":"/products-site/37.jpg",
+            "category":"100",
+            "color":"brown"
+        },
+        {
+            "productCode": "38",
+            "productName": "nice leather brown working bag",
+            "price": "150",
+            "src":"/products-site/38.jpg",
+            "category":"100",
+            "color":"brown"
+        },
+        {
+            "productCode": "39",
+            "productName": "fancy tough shining gold suitcase",
+            "price": "150",
+            "src":"/products-site/39.jpg",
+            "category":"300",
+            "color":"gold"
+        },
+        {
+            "productCode": "40",
+            "productName": "gray moon bag",
+            "price": "150",
+            "src":"/products-site/40.jpg",
+            "category":"100",
+            "color":"gray"
+        },
+        {
+            "productCode": "41",
+            "productName": "fancy tough shining gold suitcase with strips",
+            "price": "350",
+            "src":"/products-site/41.jpg",
+            "category":"300",
+            "color":"gold"
+        },
+        {
+            "productCode": "42",
+            "productName": "sport classic gray suitcase",
+            "price": "150",
+            "src":"/products-site/42.jpg",
+            "category":"300",
+            "color":"gray"
+        },
+        {
+            "productCode": "43",
+            "productName": "tough shining silver suitcase with strips",
+            "price": "300",
+            "src":"/products-site/43.jpg",
+            "category":"300",
+            "color":"gray"
+        },
+        {
+            "productCode": "44",
+            "productName": "tough shining gray suitcase with strips",
+            "price": "250",
+            "src":"/products-site/44.jpg",
+            "category":"300",
+            "color":"gray"
+        },
+        {
+            "productCode": "45",
+            "productName": "tough shining silver suitcase with strips",
+            "price": "250",
+            "src":"/products-site/45.jpg",
+            "category":"300",
+            "color":"gray"
+        },
+        {
+            "productCode": "46",
+            "productName": "tough shining light gray suitcase with strips",
+            "price": "300",
+            "src":"/products-site/46.jpg",
+            "category":"300",
+            "color":"gray"
+        },
+        {
+            "productCode": "47",
+            "productName": "tough light green suitcase with strips",
+            "price": "250",
+            "src":"/products-site/47.jpg",
+            "category":"300",
+            "color":"green"
+        },
+        {
+            "productCode": "48",
+            "productName": "set of tough turquoise suitcases with strips",
+            "price": "600",
+            "src":"/products-site/48.jpg",
+            "category":"300",
+            "color":"green"
+        },
+        {
+            "productCode": "49",
+            "productName": "tough smooth wide green suitcase",
+            "price": "150",
+            "src":"/products-site/49.jpg",
+            "category":"300",
+            "color":"green"
+        },
+        {
+            "productCode": "50",
+            "productName": "tough london suitcase",
+            "price": "100",
+            "src":"/products-site/50.jpg",
+            "category":"300",
+            "color":"red"
+        },
+        {
+            "productCode": "51",
+            "productName": "red bag with silver buckle",
+            "price": "50",
+            "src":"/products-site/51.jpg",
+            "category":"100",
+            "color":"red"
+        },
+        {
+            "productCode": "52",
+            "productName": "red bag with a small silver buckle",
+            "price": "80",
+            "src":"/products-site/52.jpg",
+            "category":"100",
+            "color":"red"
+        },
+        {
+            "productCode": "53",
+            "productName": "red leather wallet",
+            "price": "50",
+            "src":"/products-site/53.jpg",
+            "category":"200",
+            "color":"red"
+        },
+        {
+            "productCode": "54",
+            "productName": "shining red fancy wallet with a diamond",
+            "price": "60",
+            "src":"/products-site/54.jpg",
+            "category":"200",
+            "color":"red"
+        },
+        {
+            "productCode": "55",
+            "productName": "red leather working bag",
+            "price": "150",
+            "src":"/products-site/55.jpg",
+            "category":"100",
+            "color":"red"
+        },
+        {
+            "productCode": "56",
+            "productName": "red leather bag with a gold buckle",
+            "price": "150",
+            "src":"/products-site/56.jpg",
+            "category":"300",
+            "color":"red"
+        },
+        {
+            "productCode": "57",
+            "productName": "shining red tough suitcase",
+            "price": "150",
+            "src":"/products-site/57.jpg",
+            "category":"300",
+            "color":"red"
+        },
+        {
+            "productCode": "58",
+            "productName": "red tough suitcase",
+            "price": "200",
+            "src":"/products-site/58.jpg",
+            "category":"300",
+            "color":"red"
+        },
+        {
+            "productCode": "59",
+            "productName": "cute red suitcase for children",
+            "price": "200",
+            "src":"/products-site/59.jpg",
+            "category":"300",
+            "color":"red"
+        },
+        {
+            "productCode": "60",
+            "productName":  "tough red suitcase with strips",
+            "price": "250",
+            "src":"/products-site/60.jpg",
+            "category":"300",
+            "color":"red"
+        },
+        {
+            "productCode": "61",
+            "productName":  "white bag with gold buckle",
+            "price": "500",
+            "src":"/products-site/61.jpg",
+            "category":"100",
+            "color":"white"
+        },
+        {
+            "productCode": "62",
+            "productName":  "white leather bag with a gold zipper",
+            "price": "250",
+            "src":"/products-site/62.jpg",
+            "category":"100",
+            "color":"white"
+        },
+        {
+            "productCode": "63",
+            "productName":  "white leather bag with a silver buckle",
+            "price": "100",
+            "src":"/products-site/63.jpg",
+            "category":"100",
+            "color":"white"
+        },
+        {
+            "productCode": "64",
+            "productName":  "white leather bag with a gold buckle and a gold band",
+            "price": "250",
+            "src":"/products-site/64.jpg",
+            "category":"100",
+            "color":"white"
+        },
+        {
+            "productCode": "65",
+            "productName":  "white leather bag with a metal buckle and a metal band",
+            "price": "250",
+            "src":"/products-site/65.jpg",
+            "category":"100",
+            "color":"white"
+        },
+        {
+            "productCode": "66",
+            "productName":  "tough white suitcase with strips",
+            "price": "250",
+            "src":"/products-site/66.jpg",
+            "category":"300",
+            "color":"white"
+        },
+        {
+            "productCode": "67",
+            "productName":  "tough smooth white suitcase",
+            "price": "400",
+            "src":"/products-site/67.jpg",
+            "category":"300",
+            "color":"white"
+        },
+     
+        {
+            "productCode": "69",
+            "productName":  "mustard leather bag",
+            "price": "80",
+            "src":"/products-site/69.jpg",
+            "category":"100",
+            "color":"yellow"
+        },
+        {
+            "productCode": "70",
+            "productName":  "elegant yellow leather bag",
+            "price": "500",
+            "src":"/products-site/70.jpg",
+            "category":"100",
+            "color":"yellow"
+        },
+        {
+            "productCode": "71",
+            "productName":  "tough yellow suitcase with interesting strips",
+            "price": "300",
+            "src":"/products-site/71.jpg",
+            "category":"300",
+            "color":"yellow"
+        },
+        {
+            "productCode": "72",
+            "productName":  "tough yellow suitcase with strips",
+            "price": "350",
+            "src":"/products-site/72.jpg",
+            "category":"300",
+            "color":"yellow"
+        }
+    ]
+}
